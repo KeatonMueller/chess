@@ -3,5 +3,7 @@ This is a chess game written in Java using the Swing library. It can be played w
 
 # Instructions
 Download and run Chess.jar
+
 or
+
 Download source code and run V8.java

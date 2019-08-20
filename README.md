@@ -8,4 +8,4 @@ Download and run `Chess.jar`
 
 or
 
-Download `src` folder then compile and run `V8.java`
+Download `src` folder then compile and run `src/chess/V8.java`
